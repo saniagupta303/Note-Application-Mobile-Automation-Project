@@ -16,12 +16,12 @@ This project uses **Appium** with **UiAutomator2** to drive automated UI tests a
 
 ## Features Automated
 
-- ✅ Create a new note
-- ✅ Read / view note details
-- ✅ Update an existing note
-- ✅ Delete a note
-- ✅ Navigate through upper and lower tabs
-- ✅ Interact with the three-dot (overflow) menu options
+- Create a new note
+- Read / view note details
+- Update an existing note
+- Delete a note
+- Navigate through upper and lower tabs
+- Interact with the three-dot (overflow) menu options
 
 ## Prerequisites
 
