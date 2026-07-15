@@ -84,7 +84,7 @@ NotesAppMobileAutomation
 
 ## Test Scenarios
 
-| Test Scenario Title | Description |
+| Test Scenarios Title | Description |
 |---|---|
 | `StartNotesAppTest` | Initializes the Appium driver session and launches the Notes application |
 | `NavigateUpperTabs` | Handles navigation actions across the upper tab section of the app |
