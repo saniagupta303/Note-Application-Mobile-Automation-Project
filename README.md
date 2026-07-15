@@ -14,7 +14,7 @@ This project uses **Appium** with **UiAutomator2** to drive automated UI tests a
 - **Build Tool:** Maven
 - **Platform:** Android
 
-## Features Automated
+## Feature Automated
 
 - ✅ Create a new note
 - ✅ Read / view note details
@@ -116,7 +116,7 @@ NotesAppMobileAutomation
    mvn test
    ```
 
-## Notes
+## Important Points
 
 - Ensure USB debugging is enabled on the test device before running the tests.
 - The `appPackage` and `appActivity` values are specific to the ColorOS Notes application (`com.coloros.note`). Update these if testing against a different Notes app.
