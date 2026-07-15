@@ -14,7 +14,7 @@ This project uses **Appium** with **UiAutomator2** to drive automated UI tests a
 - **Build Tool:** Maven
 - **Platform:** Android
 
-## Feature Automated
+## Features Automated
 
 - ✅ Create a new note
 - ✅ Read / view note details
@@ -84,7 +84,7 @@ NotesAppMobileAutomation
 
 ## Test Scenarios
 
-| Test Scenario | Description |
+| Test Scenario Title | Description |
 |---|---|
 | `StartNotesAppTest` | Initializes the Appium driver session and launches the Notes application |
 | `NavigateUpperTabs` | Handles navigation actions across the upper tab section of the app |
