@@ -1,10 +1,8 @@
 # Note Application Mobile Automation
 
-Mobile automation framework for a Notes Android application, built using **Java** and **Appium**. This project automates the core **CRUD** operations of the Notes app — **Create**, **Read**, **Update**, and **Delete** — to validate functional behavior across different scenarios.
-
 ## Overview
 
-This project uses **Appium** with **UiAutomator2** to drive automated UI tests against a real Android device running the Notes application. It follows a clean, modular test structure that separates navigation, actions, and test execution logic.
+Mobile automation framework for a Notes Android application, built using **Java** and **Appium**. This project automates the core **CRUD** operations of the Notes app **Create**, **Read**, **Update** and **Delete** to validate functional behavior across different scenarios. This project uses **Appium** with **UiAutomator2** to drive automated UI tests against a real Android device running the Notes application. It follows a clean, modular test structure that separates navigation, actions and test execution logic.
 
 ## Tech Stack
 
